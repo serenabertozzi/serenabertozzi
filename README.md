@@ -1,4 +1,9 @@
-### Hi there, nice to meet you 👋 I'm Serena 💻 I'm currently studying at Makers Academy in London, Uk.
+### Hi there, nice to meet you 👋 I'm Serena.
+
+- 😄 Pronouns: She/Her
+- 💻 I’m currently studying at Makers Academy in London, Uk.
+- 🔭 I’m currently working on finishing my course and creating a few personal project.
+- 🌱 I’m currently learning React, Next.Js, Rails (and more!)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serenabertozzi&show_icons=true&theme=onedark)
 
