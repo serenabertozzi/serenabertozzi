@@ -5,10 +5,9 @@
 - 🔭 I’m currently working on finishing my course and creating a few personal project.
 - 🌱 I’m currently learning React, Next.Js, Rails (and more!)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serenabertozzi&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serenabertozzi&layout=compact&theme=tokyonight)](https://github.com/serenabertozzi/github-readme-stats)
-
+<img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=serenabertozzi&show_icons=true&theme=tokyonight" />
+<img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serenabertozzi&layout=compact&theme=tokyonight" />
 
 <!--
 **serenabertozzi/serenabertozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
