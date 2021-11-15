@@ -5,9 +5,9 @@
 - 🔭 I’m currently working on finishing my course and creating a few personal project.
 - 🌱 I’m currently learning React, Next.Js, Rails (and more!)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serenabertozzi&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serenabertozzi&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serenabertozzi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serenabertozzi&layout=compact&theme=tokyonight)](https://github.com/serenabertozzi/github-readme-stats)
 
 
 <!--
