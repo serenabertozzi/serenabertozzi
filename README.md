@@ -7,8 +7,8 @@
 <hr>
 
 <p align="center">
-  <img height="160px" style="padding: 5px;" src="https://github-readme-stats.vercel.app/api?username=serenabertozzi&show_icons=true&theme=tokyonight" />  
-  <img height="160px" style="padding: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serenabertozzi&layout=compact&theme=tokyonight" />
+  <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api?username=serenabertozzi&show_icons=true&theme=tokyonight" />  
+  <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serenabertozzi&layout=compact&theme=tokyonight" />
 </p>
 
 <!--
