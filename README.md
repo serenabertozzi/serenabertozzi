@@ -1,16 +1,14 @@
 ### Hi there, nice to meet you 👋 I'm Serena.
 
 - 😄 Pronouns: She/Her
-- 💻 I’m currently studying at Makers Academy in London, Uk.
+- 💻 I’m currently studying at Makers Academy in London, Uk (@ [MakersAcademy](https://makers.tech/)).
 - 🔭 I’m currently working on finishing my course and creating a few personal project.
 - 🌱 I’m currently learning React, Next.Js, Rails (and more!)
 <hr>
 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=serenabertozzi&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serenabertozzi&layout=compact&theme=tokyonight" />
+  <img height="160px" style="padding: 5px;" src="https://github-readme-stats.vercel.app/api?username=serenabertozzi&show_icons=true&theme=tokyonight" />  
+  <img height="160px" style="padding: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serenabertozzi&layout=compact&theme=tokyonight" />
 </p>
 
 <!--
