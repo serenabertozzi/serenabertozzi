@@ -1,9 +1,19 @@
-### Hi there, nice to meet you 👋 I'm Serena.
+## Hi there, nice to meet you 👋 
 
-- 😄 Pronouns: She/Her
-- 💻 I’m currently studying at Makers Academy in London, Uk (@ [MakersAcademy](https://makers.tech/)).
-- 🔭 I’m currently working on finishing my course and creating a few personal project.
-- 🌱 I’m currently learning React, Next.Js, Rails (and more!)
+I'm Serena (she/her)—a [Maker](https://makers.tech/) and full-stack developer, trying to land her first role in this world. 
+I'm passionate about learning, working on new ideas while trying to make them look pretty too, as I've always been interested in all things design.
+
+Find out more about my experience and aspirations over on my [GitHub CV](https://github.com/serenabertozzi/cv) or dive into my repos to find what I've been working on. ✨
+
+## Facts
+<hr>
+- 💻 I recently graduated from **Makers Academy** in London, Uk (@ [MakersAcademy](https://makers.tech/)).
+- 🔭 I’m currently working on **creating my portfolio**.
+- 🌱 I’m currently learning **React** and **Next.Js**.
+- 😄 When I'm not coding I'm gaming, travelling or learning how to sew. 🪡🧵
+- ⚡ Fun facts: I'm part Mayan and I can speak Japanese.
+
+## Stats
 <hr>
 
 <p align="center">
@@ -11,17 +21,6 @@
   <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serenabertozzi&layout=compact&theme=tokyonight" />
 </p>
 
-<!--
-**serenabertozzi/serenabertozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Where to find me
+<hr>
+[![Linkedin profile](https://img.shields.io/badge/Linkedin-Serena%20Bertozzi-0077B5?style=social&logo=linkedin&?labelColor=fff)](http://linkedin.com/in/serenabertozzi) *to get in touch work opportunities*
