@@ -6,7 +6,7 @@ I'm passionate about learning, working on new ideas while trying to make them lo
 Find out more about my experience and aspirations over on my [GitHub CV](https://github.com/serenabertozzi/cv) or dive into my repos to find what I've been working on. ✨
 
 <div align="center">
-<a href="https://www.16personalities.com/profiles/ec5d4f3a67d27"><img width="430" height="110" src="https://i.imgur.com/tAmitOa.png"></a>
+<a href="https://www.16personalities.com/profiles/ec5d4f3a67d27"><img width="430" height="110" src="https://i.imgur.com/3IY2fVg.png"></a>
   
 
   **I am currently looking for my first job as a Junior Software Developer.**
