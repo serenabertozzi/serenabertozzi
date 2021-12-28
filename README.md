@@ -11,7 +11,7 @@ Find out more about my experience and aspirations over on my [GitHub CV](https:/
 <a href="https://www.16personalities.com/profiles/ec5d4f3a67d27"><img width="430" height="110" src="https://i.imgur.com/h7NzedS.png"></a>
 
 
-[![Linkedin profile](https://img.shields.io/badge/Linkedin-Serena%20Bertozzi-0077B5?style=social&logo=linkedin&?labelColor=fff)](http://linkedin.com/in/serenabertozzi) [![](https://img.shields.io/badge/Email-serenabertozzi%40protonmail.com-critical)]((mailto:serenabertozzi@protonmail.com)
+[![Linkedin profile](https://img.shields.io/badge/Linkedin-Serena%20Bertozzi-0077B5?style=social&logo=linkedin&?labelColor=fff)](http://linkedin.com/in/serenabertozzi) [![](https://img.shields.io/badge/Email-serenabertozzi%40protonmail.com-critical)](mailto:serenabertozzi@protonmail.com)
 </div>
 
 ## Facts
