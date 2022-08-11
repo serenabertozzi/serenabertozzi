@@ -16,8 +16,8 @@ Find out more about my experience and aspirations over on my [GitHub CV](https:/
 - 🔭 I’m currently working on **creating my portfolio**.
 - 🌱 I’m currently learning **React** and **Typescript**.
 - 🧘🏻‍♀️ Enneagram type **9**.
-- 😄 When I'm not coding I'm gaming, travelling or learning how to sew. 🪡🧵
-- ⚡ Fun facts: I'm part Mayan and I can speak Japanese.
+- 😄 When I'm not coding I'm gaming, travelling or playing the bass. 🎸
+- ⚡ Fun facts: I have a cat named Mei and I've lived in Tokyo.
 
 ## Stats
 
