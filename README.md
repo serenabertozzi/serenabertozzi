@@ -12,11 +12,11 @@ Find out more about my experience and aspirations over on my [GitHub CV](https:/
 </div>
 
 ## Facts
-- 💻 I recently graduated from **Makers Academy** in London, Uk (@ [MakersAcademy](https://makers.tech/)).
+- 💻 I graduated from **Makers Academy** in London, Uk (@ [MakersAcademy](https://makers.tech/)).
 - 🔭 I’m currently working on **creating my portfolio**.
-- 🌱 I’m currently learning **React** and **Typescript**.
+- 🌱 I’m currently learning **Next.js**.
 - 🧘🏻‍♀️ Enneagram type **9**.
-- 😄 When I'm not coding I'm gaming, reading or playing the bass. 🎸
+- 😄 When I'm not coding I'm gaming, reading or playing my bass. 🎸
 - ⚡ Fun facts: I have a cat named Mei and I've lived in Tokyo.
 
 ## Stats
