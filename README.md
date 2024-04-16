@@ -1,6 +1,7 @@
 ## Hi there, nice to meet you 👋 
 
-I'm Serena (she/her)—a software Engineer, currently working at Lloyds Banking Group.
+I'm Serena (she/her)—a software Engineer, currently working at **Lloyds Banking Group** and I'm based in **Edinburgh**.
+
 I'm passionate about learning, working on new ideas while trying to make them look pretty too, as I've always been interested in all things design.
 
 Find out more about my experience and aspirations over on my [GitHub CV](https://github.com/serenabertozzi/cv) or dive into my repos to find what I've been working on. ✨
