@@ -15,7 +15,7 @@ Find out more about my experience and aspirations over on my [GitHub CV](https:/
 </div>
 
 ## Facts
-- 💻 I'm currently enrolled in a BCs at the **Open University** in "Computing & IT and a second subject (Design) (@ [The Open University][https://www.open.ac.uk/])).
+- 💻 I'm currently enrolled in a BSc at the **Open University** in "Computing & IT and a second subject (Design) (@ [The Open University](https://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-design-q67-citd)).
 - 🔭 I’m currently working on **creating my portfolio**.
 - 🌱 I’m currently learning more about **Accessibility** and **GCP**.
 - 🧘🏻‍♀️ Enneagram type **9**.
